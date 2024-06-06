@@ -1,0 +1,86 @@
+<style>
+    body {
+        margin: 0px;
+        font-family: "Roboto", sans-serif;
+        padding: 0 0 0 0;
+    }
+  .div1{
+    background-color: #0171f9;
+   padding:5px;
+   display: flex;
+   justify-content: space-between;
+   align-items: center;
+   padding: 10px 50px;
+   margin: 0;
+   
+  }
+  .links a {
+   color: wheat;
+   padding: 5px 15px;
+   text-decoration: none;
+   
+  }
+  .links a:hover{
+    background-color:  #4195fc;
+    border-radius: 15px;
+    
+ 
+  }
+  .links button{
+    background-color: #ee6268;
+    color:#ffff;
+    padding: 5px 15px;
+    border-radius: 15px;
+  }
+  .ptn{
+    background-color: #ee6268;
+    color:#ffff;
+    padding: 5px 15px;
+    border-radius: 15px; 
+
+}
+.ptn:hover{
+    background-color: #f2858c;
+   }
+
+ 
+ .landing-pge{
+background-color: #0171f9;
+ display: flex;
+ justify-content: space-between;
+ padding: 10px 15px;
+ align-items: center;
+ color: wheat;
+ border-radius: 0 0 50px 50px;
+ }
+ .Search input{
+    border-radius: 50px;
+    border: none;
+    outline: none;
+    height: 30px;
+    padding:  0 10px;
+ }
+ .Search button {
+    position: absolute;
+    left: 200px;
+    height: 30px;
+ }
+ .img2{
+    
+ box-sizing: initial;
+ width: 100%;
+ padding-top: 20px;
+ 
+ }
+ .tranding-contenr{
+    padding: 25px 50px;
+ }
+ .Programming-Languages{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+ }
+ .Programming-Languages h1{
+    margin-top: 0px;
+ }
+ 
